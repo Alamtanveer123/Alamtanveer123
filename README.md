@@ -1,9 +1,26 @@
-# 💫 About Me:
-# Hi, I'm Tanveer Alam<br><br>Frontend Developer specializing in **React.js** and **MERN Stack** development.  <br>Passionate about building scalable and maintainable web applications with clean code and modern practices.  <br><br>---<br><br>## 🛠 Skills<br>- **Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS  <br>- **Backend:** Node.js, Express.js  <br>- **Database:** MongoDB  <br>- **Tools:** Git, VS Code, Vite, Postman<br><br>---<br><br>✨ Continuously learning, improving, and contributing to open source projects.<br>
+# 💫 About Me
+
+Hi, I'm **Tanveer Alam** 👋  
+Frontend Developer specializing in **React.js** ⚛️ and **MERN Stack** 🌐.  
+
+Passionate about building **scalable** 📈 and **maintainable** 🛠️ web applications with **clean code** ✨ and **modern practices** 🧩.  
+
+---
+
+## 🛠 Skills
+
+**Frontend:** ⚛️ React.js | 🖌️ HTML | 🎨 CSS | 💻 JavaScript | 🌈 Tailwind CSS  
+**Backend:** 🟢 Node.js | 🔌 Express.js  
+**Database:** 🗄️ MongoDB  
+**Tools:** 🧰 Git | 🖥️ VS Code | ⚡ Vite | 📝 Postman  
+
+---
+
+🌟 Always **learning**, **growing**, and **contributing** to open source projects 🌍.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alamtanveer18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tanveer Alam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alamtanveer2772@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alamtanveer18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alamtanveer2772@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
